@@ -1,4 +1,5 @@
-# Maximilian Bornhofen (14 J.), Kolleg St Sebastian, Klasse 9
+# Bewerbungsgespräch – Freiburg Seminar<br>AG "Künstliche Intelligenz programmieren"
+## Maximilian Bornhofen (14 J.), Kolleg St Sebastian, Klasse 9
 
 - Schulisch **unterfordert** in wissenschaftlichen Fächern wie Mathematik, Physik oder Chemie
 - **Informatik-, Mathematik- und Technik-begeistert** von Kind an
@@ -20,3 +21,11 @@ Grundschulalter|Intensive **Auseinandersetzung mit Elektronik**|3D-Kino, Blinkli
 9. Klasse|**Vertiefung in die Mathematik**, **saubere Dokumentation** in LaTeX der Ergebnisse|Erfolgreiche Teilnahme am Landeswettbewerb Mathematik 2021, in dem ich in der ersten Runde mit einem 1. Preis, in der zweiten Runde mit einem 2. Preis mit Einladung zum Preisträger-Seminar ausgezeichnet wurde
 9. Klasse|Vertiefung von **JVM- und Kotlin-Backend Frameworks**, **Simulationen**, Nachprogrammierung der **Newtonschen Mechanik**, **Vektorrechnung**, **Moderne Web-Frameworks** wie React und Bootstrap, Nutzung von **TypeScript** als Alternative zu JavaScript, **Grafikdarstellung** durch HTML5 Canvas, **Vernetzung von Web-Frontend und JVM-Backend** mittels Websocket und HTTPS|Neuauflage von "CrazyRocket" als kollaboratives Computerspiel übers Web
 _10. Klasse_|_Erlernen grundständiger KI-Programmierung?_|
+
+## Motivation und Interesse für die AG "Künstliche Intelligenz programmieren"
+- KI-Technologien → Brandaktuelles Thema, das mich selbst sehr beschäftigt
+- unglaublich großes Anwendungsgebiet
+- unbeantwortete Fragen z.B. nach Möglichkeiten von KI, Forschungsstand und Funktionsweise
+- neue Perspektiven auf die digitale Welt
+- für mich _neuer_ Stoff, der kreativen Raum vergrößert, was Projekte angeht
+- neue Herausforderungen und Spaß an komplexen Algorithmen
